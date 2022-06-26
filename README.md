@@ -1,7 +1,5 @@
 - 👋 Hi, I’m Soumyamoy Das
 - 👀 I’m interested in Problem Solving and Development
-- 👨‍🎓 I'm a final year student at RCC Institute of Information Technology, Kolkata in Computer Science & Engineering
-- 🌱 I’m currently learning Web and Software Development
 - 📫 You can reach me at https://www.linkedin.com/in/soumyamoy
 
 <!---
