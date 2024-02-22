@@ -6,10 +6,10 @@ I am an innovative and passionate software developer having almost 2 years of in
 I am avid listener of music of various genres and languages. So after a tedious coding session and design discussion, it's always the music and a cup of coffee to rejuvenate the potential back! For the me-time, it's always getting glued to some documentaries 😎. And yes, I am a reader of non-fiction literature & articles, and also love to paint my imaginations.
 
 ### What are my contributions? 😅
-Although, I'm not that much into open source contributions, yet a few of them are mentioned. My primary motivation is to make the open-source more powerful, better and informative, so that the other fellow developers can understand the projects easily in their first go! 
+Although, I'm not that much active into open source contributions, yet a few of them are mentioned. My primary motivation is to make the open-source more powerful, better and informative, so that the other fellow developers can be benefitted! 
 
-[Contributed test cases for LeetCode problems](https://github.com/LeetCode-Feedback/LeetCode-Feedback/issues/9416) <br>
-[Contributed to Proto.Actor's documentations](https://github.com/asynkron/protoactor-website/pulls?q=is%3Aclosed+is%3Apr+author%3Adassoumyamoy00)
+- [Contributed test cases for LeetCode problems](https://github.com/LeetCode-Feedback/LeetCode-Feedback/issues/9416) <br>
+- [Contributed to Proto.Actor's documentations](https://github.com/asynkron/protoactor-website/pulls?q=is%3Aclosed+is%3Apr+author%3Adassoumyamoy00)
 <br><br>
 
 <p align="center">
@@ -28,7 +28,7 @@ Although, I'm not that much into open source contributions, yet a few of them ar
 ### Want to explore more? 🤓
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/soumyamoy/) 
 [![LeetCode user Soumyamoy Das](https://img.shields.io/badge/-LeetCode-FFA116?style=flat&labelColor=black&color=%23ffa116&logo=leetcode&logoColor=yellow)](https://leetcode.com/soumya00/) 
-<br><br>
+<br><br><br><br>
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=dassoumyamoy00&color=green" alt="profileViews"/>
 </p>
