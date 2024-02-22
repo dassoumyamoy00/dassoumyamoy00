@@ -1,7 +1,7 @@
 ## Hello World! 👋 I'm Soumyamoy Das
 
 ### Who am I? 🧐
-I am an innovative and passionate software developer having almost 2 years of industry experience in developing robust applications. I am interested in problem solving, open-source projects and to explore new domains. Hence, most of the time I'm busy in learning some new tech stuff beyond my domain and job prospects 😄. 
+I am an innovative and passionate software developer having almost 2 years of technical experience in developing robust applications. I am interested in problem solving, open-source projects and to explore new domains. Hence, most of the time I'm busy in learning some new tech stuff beyond my domain and job prospects 😄. 
 <br><br>
 I am avid listener of music of various genres and languages. So after a tedious coding session and design discussion, it's always the music and a cup of coffee to rejuvenate the potential back! For the me-time, it's always getting glued to some documentaries 😎. And yes, I am a reader of non-fiction literature & articles, and also love to paint my imaginations.
 
