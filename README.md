@@ -16,10 +16,10 @@ Although, I'm not that much into open source contributions, yet a few of them ar
   <table align="center">
     <tr>
       <td valign="center">
-        <img src = "https://github-readme-stats.vercel.app/api?username=dassoumyamoy00&theme=dark&show=reviews,prs_merged,prs_merged_percentage&show_icons=true&line_height=27&theme=transparent" alt = "githubStats_dassoumyamoy00"/> 
+        <img src = "https://github-readme-stats.vercel.app/api?username=dassoumyamoy00&theme=dark&show=reviews,prs_merged,prs_merged_percentage&show_icons=true&theme=transparent&hide_border=true" alt = "githubStats_dassoumyamoy00"/> 
       </td>
       <td valign="center">
-        <img src = "https://github-readme-streak-stats.herokuapp.com/?user=dassoumyamoy00&theme=transparent" alt = "githubStats_dassoumyamoy00"/>
+        <img src = "https://github-readme-streak-stats.herokuapp.com/?user=dassoumyamoy00&theme=transparent&hide_border=true" alt = "githubStats_dassoumyamoy00"/>
       </td>
     </tr>
   </table>
