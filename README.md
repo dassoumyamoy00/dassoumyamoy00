@@ -8,8 +8,8 @@ I am avid listener of music of various genres and languages. So after a tedious 
 ### What are my contributions? 😅
 Although, I'm not that much into open source contributions, yet a few of them are mentioned. My primary motivation is to make the open-source more powerful, better and informative, so that the other fellow developers can understand the projects easily in their first go! 
 
-[Contributed test cases for LeetCode problems]() <br>
-[Contributed to Proto.Actor's documentations and helped identifying bottlenecks under heavy loads]() 
+[Contributed test cases for LeetCode problems](https://github.com/LeetCode-Feedback/LeetCode-Feedback/issues/9416) <br>
+[Contributed to Proto.Actor's documentations](https://github.com/asynkron/protoactor-website/pulls?q=is%3Aclosed+is%3Apr+author%3Adassoumyamoy00)
 <br><br>
 
 <p align="center">
