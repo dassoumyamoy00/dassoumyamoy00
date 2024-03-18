@@ -1,12 +1,12 @@
 ## Hello World! 👋 I'm Soumyamoy Das
 
 ### Who am I? 🧐
-I am an innovative and passionate software developer having almost 2 years of technical experience in developing robust applications. I am interested in problem solving, open-source projects and to explore new domains. Hence, most of the time I'm busy in learning some new tech stuff beyond my domain and job prospects 😄. 
+I am an innovative and passionate software developer having almost 2 years of technical experience in developing robust applications. I am interested in problem solving, open-source projects and exploring new domains. Hence, most of the time I'm busy in learning some new tech stuff beyond my domain and job prospects 😄. 
 <br><br>
 I am avid listener of music of various genres and languages. So after a tedious coding session and design discussion, it's always the music and a cup of coffee to rejuvenate the potential back! For the me-time, it's always getting glued to some documentaries 😎. And yes, I am a reader of non-fiction literature & articles, and also love to paint my imaginations.
 
 ### What are my contributions? 😅
-Although, I'm not that much active into open source contributions, yet a few of them are mentioned. My primary motivation is to make the open-source more powerful, better and informative, so that the other fellow developers can be benefitted! 
+I'm not that much active into open source contributions. My primary motivation is to make the open-source more powerful, better and informative, so that the other fellow developers can be benefitted! 
 
 - [Contributed test cases for LeetCode problems](https://github.com/LeetCode-Feedback/LeetCode-Feedback/issues/9416) <br>
 - [Contributed to Proto.Actor's documentations](https://github.com/asynkron/protoactor-website/pulls?q=is%3Aclosed+is%3Apr+author%3Adassoumyamoy00)
@@ -32,21 +32,3 @@ Although, I'm not that much active into open source contributions, yet a few of 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=dassoumyamoy00&color=green" alt="profileViews"/>
 </p>
-
-
-
-
-<!--
-**dassoumyamoy00/dassoumyamoy00** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
